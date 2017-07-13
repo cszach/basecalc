@@ -1,0 +1,2 @@
+# basecalc
+CLI base calculator
