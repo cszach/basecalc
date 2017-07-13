@@ -55,9 +55,9 @@ Here is the list of commands:
         </tr>
     </tbody>
 </table>
-- - -
-## Error Reports
-Please send error reports to novakglow@gmail.com
-- - -
-## License
-Apache-2.0
+<hr/>
+<h2>Error Reports</h2>
+<span>Please send error reports to novakglow@gmail.com</span>
+<hr/>
+<h2>License</h2>
+<span>Apache-2.0</span>
