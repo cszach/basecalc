@@ -2,8 +2,11 @@
 - - -
 ## About
 A calculator with CLI used to convert numbers in between base.
+
 Written in Python
+
 Kit: PyCharm
+
 Latest version release: 1.0.0
 - - -
 ## Instructions
